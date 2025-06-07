@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "twin_create": "/Users/mike/Desktop/TwinFolio/AI/Deployment/graph1_create.py:compiled_graph"
+    },
+    "env": ".env"
+} 
